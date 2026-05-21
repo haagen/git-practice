@@ -3,3 +3,8 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.wrapper {
+    width: 400px;
+    margin: 0 auto;
+}
