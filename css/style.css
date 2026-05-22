@@ -12,3 +12,12 @@ body {
 h1 {
     color: lightseagreen;
 }
+
+.banner {
+    border: 1px solid lightseagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    text-align: center;
+}
