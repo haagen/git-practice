@@ -9,4 +9,6 @@ New text line on feture-branch
 En annan förändring på master.
 Denna raden är ändrar direkt på master.
 
+asdasd
+
 Detta är en förändring i README.md
